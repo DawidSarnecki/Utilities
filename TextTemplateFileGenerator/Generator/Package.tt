@@ -26,6 +26,7 @@
     {
         throw new FileNotFoundException($"Given file: \"{filePath}\" does not exist!");
     }
+
     using (StreamReader streamReader = new StreamReader(filePath))
     {
         readLine = streamReader.ReadLine();
