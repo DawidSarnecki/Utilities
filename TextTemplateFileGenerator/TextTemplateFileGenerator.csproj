@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Package.appxmanifest">
+    <None Include="Generator\Package.appxmanifest">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Package.tt</DependentUpon>
@@ -57,7 +57,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Package.tt">
+    <Content Include="Generator\Package.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Package.appxmanifest</LastGenOutput>
     </Content>

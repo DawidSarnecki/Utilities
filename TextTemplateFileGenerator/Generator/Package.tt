@@ -61,7 +61,7 @@
 
 	if(parsedResult[0] == NOT_VALID_FIRST_SEQUENCE_VALUE)
 	{
-		throw new ArgumentOutOfRangeException($"Icorrect amount of values! The limit is: {NOT_VALID_FIRST_SEQUENCE_VALUE}");
+		throw new ArgumentOutOfRangeException($"Icorrect first Value! The first value can not be equal {NOT_VALID_FIRST_SEQUENCE_VALUE}");
 	}
 	version = $"{parsedResult[0]}.{parsedResult[1]}.{parsedResult[3]}.{LAST_VALUE}";
 #>
