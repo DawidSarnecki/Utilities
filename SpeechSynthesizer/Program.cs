@@ -15,11 +15,26 @@ namespace Synthesizer
         {
             string filePath = "questions.txt";
             List<string> test = new List<string>();
+
             using (StreamReader streamReader = new StreamReader(filePath))
             {
+                StringBuilder line = new StringBuilder();
+                string temp = string.Empty;
+
                 while (!streamReader.EndOfStream)
                 {
-                    test.Add(streamReader.ReadLine().Replace(".",""));
+                    temp = streamReader.ReadLine().Replace(".", ": ");
+
+                    if (temp.Any() && char.IsDigit(temp.First()))
+                    {
+                        line.Append(temp);
+                        continue;
+                    }
+                    line.Append(temp);
+                    test.Add(line.ToString());
+                    line.Clear();
+                    //another version:
+                    //test.Add(streamReader.ReadLine().Replace(@"\r\n?|\n", string.Empty).Replace(".", " "));
                 }
             }
 
@@ -30,7 +45,10 @@ namespace Synthesizer
                 foreach (var item in test)
                 {
                     synth.Speak(item);
-                    Console.ReadKey();
+                    while (Console.ReadKey().Key == ConsoleKey.Enter)
+                    {
+                        synth.Speak(item);
+                    }
                 }
 
                 //    string textToSpeak = "I love you Ala! You are the best wife and mum of the world!. Your Dawid.";

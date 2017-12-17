@@ -1,3 +1,152 @@
+﻿1.
+Posiadanie silnego i zgrabnego ciała jest dla mnie rzeczą ważną.
+2.
+Staram się dogłębnie zrozumieć rzeczy.
+3.
+Muzyka, kolory, piękno każdego rodzaju wpływają na moje usposobienie.
+4.
+Ludzie wzbogacają moje życie i nadają mu sens.
+5.
+Wierzę w siebie; w to, że mam wpływ na swoje życie.
+6.
+Doceniam jasno wytyczone kierunki działania, które dokładnie określają, co mam robić.
+7.
+Zwykle sam daję sobie radę.
+8.
+Mogę godzinami rozmyślać.
+9.
+Doceniam piękne otoczenie: kolory i formy mają dla mnie duże znaczenie.
+10.
+Kocham towarzystwo.
+11.
+Lubie rywalizację.
+12.
+Muszę mieć najpierw uporządkowane zaplecze i dopiero potem rozpocząć pracę nad projektem.
+13.
+Lubię pracować rękami.
+14.
+Badanie nowych idei daje mi zadowolenie.
+15.
+Zawsze poszukuję nowych sposobów, by dać wyraz moim twórczym zdolnościom.
+16.
+Potrzebuję dzielenia moich osobistych spraw z innymi.
+17.
+To, że jestem najważniejszą osobą w grupie, daje mi zadowolenie.
+18.
+Jest dla mnie sprawą honoru, by dbać o wszystkie szczegóły w mojej pracy.
+19.
+Nie przeszkadza mi, że zabrudzę sobie ręce w czasie pracy.
+20.
+Wykształcenie jest dla mnie nieustającym procesem rozwijania i wyostrzania mojego sposobu myślenia. 
+21.
+Lubię ubierać się nie tradycyjnie: lubię eksperymentować z nowymi kierunkami mody i z kolorami.
+22.
+Często wyczuwam, kiedy jakaś osoba ma potrzebę rozmowy.
+23.
+Lubię organizować ludzi i dawać impuls do pracy.
+24.
+Rutyna pomaga mi w ukończeniu pracy.
+25.
+Lubię wyzwania, które są punktem wyjścia do dalszej pracy.
+26.
+Czasami mogę siedzieć godzinami i pracować nad rozwiązaniem problemów, czytać lub myśleć o życiu.
+27.
+Potrafię wyobrażać sobie różne rzeczy.
+28.
+Czuję się dobrze, kiedy zajmuję się innymi ludźmi.
+29.
+Lubię, gdy dają mi kredyt zaufania w pracy.
+30.
+Jestem podbudowany, wiedząc że dobrze i starannie rozwiązałem powierzone zadanie.
+31.
+Chciałbym najchętniej wykonywać rzeczy praktyczne, pracować rękami.
+32.
+Chętnie czytam książki na różne z tematów, które budzą moją ciekawość.
+33.
+Lubię wprowadzać w życie nowe pomysły.
+34.
+W sytuacji, gdy mam jakieś problemy z innymi, preferuję rozmowę i znalezienie rozwiązania.
+35.
+Żeby osiągnąć sukces należy mierzyć wysoko.
+36.
+Lubię sytuacje, które wymagają ode mnie podejmowania decyzji i brania za nie odpowiedzialności.
+37.
+Lubię dyskutować.
+38.
+Analizuję dany problem gruntownie, zanim podejmę działania.
+39.
+Lubię zmieniać otoczenie tak, by uczynić je czymś innym i specjalnym.
+40.
+Kiedy jest mi przykro znajduję przyjaciela, by z nim porozmawiać. 
+41.
+Kiedy opracowuję plan, wolę żeby inni zajmowali się szczegółami.
+42.
+Zwykle jestem zadowolony z miejsca, gdzie przebywam.
+43.
+Praca na świeżym powietrzu dostarcza mi nowego zasobu energii.
+44.
+Wciąż zadaję pytanie Dlaczego?.
+45.
+Podoba mi się, że moja praca jest wyrazem mojego nastroju i uczuć.
+46.
+Lubię znajdować sposoby pomagania ludziom, by bardziej byli ludzcy wobec siebie.
+47.
+Branie udziału w podejmowaniu ważnych decyzji jest niezmiernie ciekawe.
+48.
+Zawsze cieszę się, gdy ktoś inny przejmuje kierownictwo.
+49.
+Lubię, gdy moje otoczenie jest proste i praktyczne.
+50.
+Roztrząsam problem, dopóki nie znajdę odpowiedzi.
+51.
+Piękno natury porusza coś ukrytego we mnie.
+52.
+Bliskie stosunki z innymi są ważne dla mnie.
+53.
+Lepsze stanowisko i awans są ważne dla mnie.
+54.
+Stała organizacja dnia to coś dla mnie: pracować określoną ilość godzin każdego dnia.
+55.
+Dla uniknięcia chaosu potrzebny jest silny system z ustalonym prawem i porządkiem.
+56.
+Książki zmuszające do myślenia zawsze poszerzają moje horyzonty.
+57.
+Bardzo cieszę się z możliwości pójścia na wystawę, do teatru czy do kina.
+58.
+Gdy nie widzę kogoś przez dłuższy czas, chcę wiedzieć co się z nim dzieje.
+59.
+Niezmiernie ciekawą rzeczą jest możliwość wpływania na innych ludzi.
+60.
+Kiedy przyrzekam, że coś zrobię, wykonuję to do najdrobniejszego szczegółu. 
+Solidna, fizyczna i twarda praca nikomu nie zaszkodzi.
+62.
+Chciałbym nauczyć się wszystkiego, co jest dostępne w tematach, które mnie interesują.
+63.
+Nie chcę być jak inni - lubię robić rzeczy inaczej.
+64.
+Czuję potrzebę niesienia pomocy innym.
+65.
+Jestem gotów podjąć ryzyko, by kontynuować sprawy.
+66.
+Lubię jasne i precyzyjne linie postępowania, kiedy coś zaczynam.
+67.
+Pierwsze, co widzę w samochodzie, to dobry silnik.
+68.
+Obecność ludzi działa stymulująco na mój intelekt.
+69.
+Kiedy czymś się zajmuję, mam tendencję do zapominania o całym świecie.
+70.
+Martwi mnie, że jest tyle ludzi w naszym społeczeństwie, którzy potrzebują pomocy.
+71.
+Zabawnie jest podsumować innym ludziom pomysły.
+72.
+Nie znoszę, kiedy ktoś bez przerwy zmienia wytyczne, kiedy akurat konczę pracę.
+73.
+Zwykle znajduję wyjście w tzw. sytuacjach "podbramkowych".
+74.
+Nawet samo czytanie o odkryciach jest ciekawe.
+75.
+Lubię robić happeningi.
 76.
 Zawsze staram się jak mogę, by okazać uwagę ludziom, którzy wyglądają na samotnych i bez przyjaciół.
 77.
